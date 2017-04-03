@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<xs:element name="author_table">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="author_ID" type="xs:int"/>
+            <xs:element name="author_name" type="xs:string"/>
+            <xs:element name="author_surname" type="xs:string"/>
+            <xs:element name="date_of_birth" type="xs:date"/>
+            <xs:element name="date_of_death" type="xs:date"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
