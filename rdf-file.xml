@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc= "http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="Miraç Çağrı Aktaş">
+  <dc:creator>Miraç Çağrı Aktaş</dc:creator>
+  <dc:name>Miraç Çağrı</dc:name>
+  <dc:surname>Aktaş</dc:surname>
+  <dc:birth_date>1994</dc:birth_date>
+  <dc:death_date>-</dc:death_date>
+</rdf:Description>
+<rdf:Description rdf:about="Zülfü Livaneli">
+  <dc:creator>Zülfü Livaneli</dc:creator>
+  <dc:name>Zülfü</dc:name>
+  <dc:surname>Livaneli</dc:surname>
+  <dc:birth_date>1946</dc:birth_date>
+  <dc:death_date>-</dc:death_date>
+</rdf:Description>
+<rdf:Description rdf:about="Yuval Noah Harari">
+  <dc:creator>Yuval Noah Harari</dc:creator>
+  <dc:name>Yuval Noah</dc:name>
+  <dc:surname>Harari</dc:surname>
+  <dc:birth_date>1976</dc:birth_date>
+  <dc:death_date>-</dc:death_date>
+</rdf:Description>
+<rdf:Description rdf:about="Sabahattin Ali">
+  <dc:creator>Sabahattin Ali</dc:creator>
+  <dc:name>Sabahattin</dc:name>
+  <dc:surname>Ali</dc:surname>
+  <dc:birth_date>1907</dc:birth_date>
+  <dc:death_date>1948</dc:death_date>
+</rdf:Description>
+<rdf:Description rdf:about="Mustafa Kemal Atatürk">
+  <dc:creator>Mustafa Kemal Atatürk</dc:creator>
+  <dc:name>Mustafa Kemal</dc:name>
+  <dc:surname>Atatürk</dc:surname>
+  <dc:birth_date>1881</dc:birth_date>
+  <dc:death_date>1938</dc:death_date>
+</rdf:Description>
+<rdf:Description rdf:about="Andy Weir">
+  <dc:creator>Andy Weir</dc:creator>
+  <dc:name>Andy</dc:name>
+  <dc:surname>Weir</dc:surname>
+  <dc:birth_date>1972</dc:birth_date>
+  <dc:death_date>-</dc:death_date>
+</rdf:Description>
+<rdf:Description rdf:about="George Orwell">
+  <dc:creator>George Orwell</dc:creator>
+  <dc:name>George</dc:name>
+  <dc:surname>Orwell</dc:surname>
+  <dc:birth_date>1903</dc:birth_date>
+  <dc:death_date>1950</dc:death_date>
+</rdf:Description>
+</rdf:RDF>
