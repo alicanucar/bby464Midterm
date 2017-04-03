@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="xml-schema.xsd">
+<database>
+<publishers>
+    <publisher>
+        <publisher_ID>1</publisher_ID>
+        <publisher_name>Olimpos Yayınları</publisher_name>
+        <publisher_city>İstanbul</publisher_city>
+        <publisher_telephone>0(212) 544 32 02</publisher_telephone>
+    </publisher>
+    <publisher>
+        <publisher_ID>2</publisher_ID>
+        <publisher_name>Doğan Kitap</publisher_name>
+        <publisher_city>İstanbul</publisher_city>
+        <publisher_telephone>(0212) 373 77 00</publisher_telephone>
+    </publisher>
+    <publisher>
+        <publisher_ID>3</publisher_ID>
+        <publisher_name>Kolektif Kitap</publisher_name>
+        <publisher_city>İstanbul</publisher_city>
+        <publisher_telephone>(0216) 337 4256</publisher_telephone>
+    </publisher>
+    <publisher>
+        <publisher_ID>4</publisher_ID>
+        <publisher_name>Yapı Kredi Yayınları</publisher_name>
+        <publisher_city>Ankara</publisher_city>
+        <publisher_telephone>(0312) 435 85 94</publisher_telephone>
+    </publisher>
+    <publisher>
+        <publisher_ID>5</publisher_ID>
+        <publisher_name>Alfa Yayıncılık</publisher_name>
+        <publisher_city>İstanbul</publisher_city>
+        <publisher_telephone>0212 511 53 03</publisher_telephone>
+    </publisher>
+    <publisher>
+        <publisher_ID>6</publisher_ID>
+        <publisher_name>İthaki Yayınları</publisher_name>
+        <publisher_city>İstanbul</publisher_city>
+        <publisher_telephone>(0216) 348 36 97</publisher_telephone>
+    </publisher>
+    <publisher>
+        <publisher_ID>7</publisher_ID>
+        <publisher_name>Can Yayınları</publisher_name>
+        <publisher_city>İstanbul</publisher_city>
+        <publisher_telephone>0 212 252 59 88</publisher_telephone>
+    </publisher>
+</publishers>
+<books>
+    <book>
+        <book_ID>1</book_ID>
+        <book_name>Sen On Yedi Yaşımsın</book_name>
+        <book_price>9,75 tl</book_price>
+        <isbn_no>9786059609388</isbn_no>
+        <number_of_pages>160</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2017</publis_date>
+    </book>
+    <book>
+        <book_ID>2</book_ID>
+        <book_name>Kalbimizin Not Defteri</book_name>
+        <book_price>11,05 tl</book_price>
+        <isbn_no>9786059176576</isbn_no>
+        <number_of_pages>208</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2016</publis_date>
+    </book>
+    <book>
+        <book_ID>3</book_ID>
+        <book_name>Huzursuzluk</book_name>
+        <book_price>10,5 tl</book_price>
+        <isbn_no>9786050939828</isbn_no>
+        <number_of_pages>160</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2017</publis_date>
+    </book>
+    <book>
+        <book_ID>4</book_ID>
+        <book_name>Hayvanlardan Tanrılara - Sapiens</book_name>
+        <book_price>20,8 tl</book_price>
+        <isbn_no>9786055029357</isbn_no>
+        <number_of_pages>412</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2016</publis_date>
+    </book>
+    <book>
+        <book_ID>5</book_ID>
+        <book_name>Kürk Mantolo Modanna</book_name>
+        <book_price>8,4 tl</book_price>
+        <isbn_no>9789753638029</isbn_no>
+        <number_of_pages>164</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2016</publis_date>
+    </book>
+    <book>
+        <book_ID>6</book_ID>
+        <book_name>İçimizdeki Şeytan</book_name>
+        <book_price>12,6 tl</book_price>
+        <isbn_no>9789753638036</isbn_no>
+        <number_of_pages>254</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2016</publis_date>
+    </book>
+    <book>
+        <book_ID>7</book_ID>
+        <book_name>Sırça Köşk</book_name>
+        <book_price>7 tl</book_price>
+        <isbn_no>9789750806629</isbn_no>
+        <number_of_pages>152</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2016</publis_date>
+    </book>
+    <book>
+        <book_ID>8</book_ID>
+        <book_name>Nutuk</book_name>
+        <book_price>6 tl</book_price>
+        <isbn_no>9786051711577</isbn_no>
+        <number_of_pages>640</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2016</publis_date>
+    </book>
+    <book>
+        <book_ID>9</book_ID>
+        <book_name>Marslı</book_name>
+        <book_price>9,90 tl</book_price>
+        <isbn_no>9786053753902</isbn_no>
+        <number_of_pages>416</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2016</publis_date>
+    </book>
+    <book>
+        <book_ID>10</book_ID>
+        <book_name>1984</book_name>
+        <book_price>16,90 tl</book_price>
+        <isbn_no>9789750718533</isbn_no>
+        <number_of_pages>352</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2016</publis_date>
+    </book>
+    <book>
+        <book_ID>11</book_ID>
+        <book_name>Hayvan Çiftliği</book_name>
+        <book_price>9,75 tl</book_price>
+        <isbn_no>9789750719387</isbn_no>
+        <number_of_pages>160</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2016</publis_date>
+    </book>
+    <book>
+        <book_ID>12</book_ID>
+        <book_name>Homo Deus - Yarının Kısa Bir Tarihi</book_name>
+        <book_price>22,10 tl</book_price>
+        <isbn_no>9786055029630</isbn_no>
+        <number_of_pages>456</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2016</publis_date>
+    </book>
+    <book>
+        <book_ID>13</book_ID>
+        <book_name>Sapiens: A Brief History of Humankind</book_name>
+        <book_price>34,41 tl</book_price>
+        <isbn_no>9780099590088</isbn_no>
+        <number_of_pages>512</number_of_pages>
+        <book_language>İngilizce</book_language>
+        <publis_date>2015</publis_date>
+    </book>
+    <book>
+        <book_ID>14</book_ID>
+        <book_name>Serenad</book_name>
+        <book_price>23,10 tl</book_price>
+        <isbn_no>9786050900286</isbn_no>
+        <number_of_pages>484</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2011</publis_date>
+    </book>
+    <book>
+        <book_ID>15</book_ID>
+        <book_name>Kardeşimin Hikayesi</book_name>
+        <book_price>16,10 tl</book_price>
+        <isbn_no>9786050914443</isbn_no>
+        <number_of_pages>330</number_of_pages>
+        <book_language>Turkish</book_language>
+        <publis_date>2016</publis_date>
+    </book>
+</books>
+<authors>
+    <author>
+        <author_ID>1</author_ID>
+        <author_name>Miraç Çağrı</author_name>
+        <author_surname>Aktaş</author_surname>
+        <date_of_birth>1994</date_of_birth>
+        <date_of_death>-</date_of_death>
+    </author>
+    <author>
+        <author_ID>2</author_ID>
+        <author_name>Zülfü </author_name>
+        <author_surname>Livaneli</author_surname>
+        <date_of_birth>1946</date_of_birth>
+        <date_of_death>-</date_of_death>
+    </author>
+    <author>
+        <author_ID>3</author_ID>
+        <author_name>Yuval Noah </author_name>
+        <author_surname>Harari</author_surname>
+        <date_of_birth>1976</date_of_birth>
+        <date_of_death>-</date_of_death>
+    </author>
+    <author>
+        <author_ID>4</author_ID>
+        <author_name>Sabahattin</author_name>
+        <author_surname>Ali</author_surname>
+        <date_of_birth>1907</date_of_birth>
+        <date_of_death>1948</date_of_death>
+    </author>
+    <author>
+        <author_ID>5</author_ID>
+        <author_name>Mustafa Kemal</author_name>
+        <author_surname>Atatürk</author_surname>
+        <date_of_birth>1881</date_of_birth>
+        <date_of_death>1938</date_of_death>
+    </author>
+    <author>
+        <author_ID>6</author_ID>
+        <author_name>Andy</author_name>
+        <author_surname>Weir</author_surname>
+        <date_of_birth>1972</date_of_birth>
+        <date_of_death>-</date_of_death>
+    </author>
+    <author>
+        <author_ID>7</author_ID>
+        <author_name>George</author_name>
+        <author_surname>Orwell</author_surname>
+        <date_of_birth>1903</date_of_birth>
+        <date_of_death>1950</date_of_death>
+    </author>
+</authors>
+</database>
+</xs:schema>
